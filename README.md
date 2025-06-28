@@ -1,6 +1,6 @@
-# Analyse-nerg-tique: 
+# Analyse énergétique: 
 # Cartographie des Territoires à Potentiel de Flexibilité Énergétique
-Ce projet, réalisé par l’équipe Data de FlexiMap Solutions, vise à identifier les territoires en France métropolitaine où des actions de flexibilité énergétique (effacement, pilotage de la consommation) peuvent être stratégiquement déployées. Il combine analyse de données open-source, modélisation d'indicateurs de flexibilité et visualisation interactive.
+Ce projet, réalisé par l’équipe Data de FlexiMap Solutions (entreprise fictive créée dans lecadre de ce projet final de formation), vise à identifier les territoires en France métropolitaine où des actions de flexibilité énergétique (effacement, pilotage de la consommation) peuvent être stratégiquement déployées. Il combine analyse de données open-source, modélisation d'indicateurs de flexibilité et visualisation interactive.
 
 # Objectifs du projet
 Identifier les zones à forte consommation pilotable (secteurs tertiaire et industriel).
