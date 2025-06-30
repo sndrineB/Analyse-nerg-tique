@@ -1,33 +1,20 @@
 # Analyse énergétique: 
 # Cartographie des Territoires à Potentiel de Flexibilité Énergétique
-Ce projet, réalisé par l’équipe Data de FlexiMap Solutions (entreprise fictive créée dans lecadre de ce projet final de formation), vise à identifier les territoires en France métropolitaine où des actions de flexibilité énergétique (effacement, pilotage de la consommation) peuvent être stratégiquement déployées. Il combine analyse de données open-source, modélisation d'indicateurs de flexibilité et visualisation interactive.
+Ce projet, réalisé par l’équipe Data de FlexiMap Solutions (entreprise fictive créée dans le cadre de ce projet final de formation), vise à identifier les territoires en France métropolitaine où des actions de flexibilité énergétique (effacement, pilotage de la consommation) peuvent être stratégiquement déployées. Il combine analyse de données open-source, modélisation d'indicateurs de flexibilité et visualisation interactive.
 
 # Objectifs du projet
 Identifier les zones à forte consommation pilotable (secteurs tertiaire et industriel).
-
 Calculer un indice de flexibilité croisant consommation et dépendance énergétique.
-
 Visualiser ces zones sur une cartographie interactive à des fins d’aide à la décision.
 
 # Outils utilisés
 Python (Pandas, NumPy, Matplotlib)
-
 Power BI pour la visualisation interactive
-
 Jupyter Notebooks pour la documentation de l’analyse
 
 # Jeux de données
-Sources :
-
 data.gouv.fr
-
 opendata.reseaux-energies.fr
-
-Fichiers :
-
-conso-departement-annuelle.csv
-
-conso-epci-annuelle.csv
 
 # Méthodologie
 ## Prétraitement (Python)
